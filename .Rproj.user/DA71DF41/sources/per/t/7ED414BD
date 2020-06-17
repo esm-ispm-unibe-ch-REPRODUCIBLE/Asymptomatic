@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589544678075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "868323983",
+    "id" : "7ED414BD",
+    "lastKnownWriteTime" : 1497282290,
+    "last_content_update" : 1497282290,
+    "path" : "~/Google Drive/_mydrive/R projects/NMAJags/R/modelNMABinary.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "13,49",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
